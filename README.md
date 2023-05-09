@@ -4,13 +4,7 @@
 <h2>Description</h2>
   Offers a map reference using asynchronous code that utilizes API to source real-time data of the Boston MBTA busses and map overlay for visual tracking
 <h2>How to run</h2>
-  <ul>
-<li>Click on <>Code</li>
-<li>Select Download ZIP from the drop down menu</li>
-<li>Once the zip file is downloaded, extract the files (right click)</li>
-<li>Open the index.html file in a browser</li>
-  </ul>
-
+Under the About section click on the website link (https://joyedghill.github.io/bustracker) 
 <h2>Roadmap</h2>
 Adding a shuttle route from one of the local sporting venues (e.g. TD Garden)
 <h2>License</h2>  
